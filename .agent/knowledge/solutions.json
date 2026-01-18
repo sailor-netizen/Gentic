@@ -1,0 +1,10 @@
+[
+  {
+    "problem": "Example: Build fails with missing dependency",
+    "fix": "Run npm install to ensure all packages are linked.",
+    "tags": [
+      "build",
+      "npm"
+    ]
+  }
+]
